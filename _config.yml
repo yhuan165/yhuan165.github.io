@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Betty Huang"
-  avatar           : "/assets/images/IMG_3784.jpg"
+  avatar           : "./assets/images/IMG_3784.jpg"
   bio              : "I am a PhD student in the CMDB program at JHU."
   location         : "Baltimore, Maryland"
   email            : "yhuan165@jhu.edu"
