@@ -1,9 +1,9 @@
 ---
 layout: profiles
 permalink: /cat/
-title: Cat
+title: cat
 description: This is a page about my cat Tea, short for Medium Thai Iced Milk Tea with 50% Sugar 50% Ice and 2 Boba
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
