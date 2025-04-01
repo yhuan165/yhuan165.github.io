@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-cat",
+          title: "Cat",
+          description: "This is a page about my cat Tea, short for Medium Thai Iced Milk Tea with 50% Sugar 50% Ice and 2 Boba",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/cat/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
