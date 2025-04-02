@@ -12,5 +12,8 @@ children:
     permalink: /blog/
   - title: divider
   - title: cat
-    permalink: /cat/  
+    permalink: /cat/
+  - title: divider
+  - title: publications
+    permalink: /publications/  
 ---

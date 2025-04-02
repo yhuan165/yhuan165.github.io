@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
-nav: true
+description: Will be updated when publications are published
+nav: false
 nav_order: 2
 ---
 
