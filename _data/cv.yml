@@ -2,96 +2,71 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Yi Han (Betty) Huang
+    - name: Email
+      value: yhuan165@jhu.edu
+    - name: Url
+      value: yhuan165.github.io
+    - name: Date Updated
+      value: April 2, 2025
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate in Cell, Molecular, Developmental Biology, and Biophysics
+      institution: Johns Hopkins University, Baltimore, MD 
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Advisor: Rajiv McCoy"
+        - "Research Topic: Understanding the genetic mechanisms shaping variation in human gene expression and splicing."
+        - title: Rotations 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Schatz Lab - Long-read genome assembly of multiple dog breeds.
+            - Cunningham Lab - Investigated anti-fungal resistance in Candida glabrata in response to Amphotericin B using Hermes Transposon screens and testing knockout mutants.
+            - McCoy Lab - Investigated effects of rare genetic variation on splicing in human populations using MAGE dataset and Leafcutter.
+            - Wu Lab - Utilized single-molecule tracking to investigate nuclear diffusion dynamics of individual SWR1 components.
+    - title: BS in Molecular and Cellular Biology, Graduated with Honors
+      institution: Johns Hopkins University, Baltimore, MD
+      year: 2019 - 2023
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher
+      institution: DiRuggiero Lab, Department of Biology, Johns Hopkins University
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - " Research topic: Characterized different small non-coding RNA found in Haloferax volcanii. Investigated their regulation in oxidative stress to identify chaperone proteins involved in stress regulation"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2024
+      items:
+        - Presidential Membership Initiative Award, Genetics Society of America
 
-- title: Honors and Awards
+- title: Publications
   type: time_table
   contents:
-    - year: 1921
+    - title: Under Review
+      year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Dallon, E., Moran, H., Chidambaran, S., Kian, A., Huang, B., Fried, S., DiRuggiero, J. Investigation of the global translational response to oxidative stress in the model archaeon Haloferax volcanii reveals untranslated small RNAs with ribosome occupancy.
 
-- title: Academic Interests
-  type: nested_list
+- title: Teaching
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Teaching Assistant
+      institution: Johns Hopkins University 
+      year: 2024 - Present
+      description:
+        - Biochemistry Project Lab (AS.020.315, Spring)
+        - Biochemistry Project Lab (AS.020.315, Fall)
 
-- title: Other Interests
-  type: list
+- title: Research Mentorship
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Undergraduates
+      year: 2023
+      description:
+        - Arman Kian, B.S. in Biology, Johns Hopkins University
