@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Sex-ratio in Day 5 Aneuploid Embryo
-description: a project that redirects to another website
+description: Determining whether aneuploid embryos are sex-biased. 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
