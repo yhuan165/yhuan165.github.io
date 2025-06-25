@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: placeholder
+description: from original website
 img:
-importance: 3
+importance: 1
 category: fun
 ---
 
